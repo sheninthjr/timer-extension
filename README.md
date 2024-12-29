@@ -1,7 +1,7 @@
 # Timer Extension
 
 <div align="center">
-![Timer Extension Preview](./src/assets/image.png)
+<img src="./src/assets/image.png">
 </div>
 
 ## Features:
