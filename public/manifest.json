@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Timer",
+  "version": "2.0",
+  "description": "Timer to track your speed",
+  "permissions": ["windows"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Timer",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
